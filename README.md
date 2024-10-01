@@ -2,3 +2,4 @@
 Formation et démo Git
 Machinchose
 Truc
+Chose
